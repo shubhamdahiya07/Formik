@@ -154,7 +154,7 @@ const Form = () => {
             </div>
             <div className="form-group">
                 <TextField className="form-control"
-                    label="D.O.B"
+                    label="D.O.B(dd/mm/yyyy)"
                     id="Date"
                     variant="outlined"  
                     name="Date"
